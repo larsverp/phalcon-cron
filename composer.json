@@ -22,10 +22,8 @@
 
 
     "require": {
-        "php": "~7.1",
-
-        "ext-phalcon": "~4.0",
-
+        "php": "~8.1",
+        "ext-phalcon": "~5.1",
         "sidroberts/cron": "~2.0"
     },
 
